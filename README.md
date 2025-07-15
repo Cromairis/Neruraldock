@@ -23,7 +23,7 @@ This repository is a timestamped proof for:
 
 ## Next Steps
 - The full novel is part of a planned trilogy, with this chapter as the opening. Stay tuned for updates!
-- Contact: [Your email or social handle, e.g., @CromsDos on X] for inquiries or collaboration.
+- Contact: Cesar Sanchez Galeana optallvision@gmail.com for inquiries or collaboration.
 
 ## Commit Information
 - Uploaded: Tuesday, July 15, 2025, 05:37 PM CST (22:37 UTC)
